@@ -1,0 +1,21 @@
+#postTable {
+    border: 1px solid black;
+    margin-top: 5%;
+}
+
+td, th {
+    text-align: center;
+    border: 1px solid black;
+}
+
+.content{
+    margin-top: 5%;
+    max-width: 50%;
+    min-width:25%; 
+    display:inline-grid;
+}
+
+form{
+    width: 30%;
+    display: inline-grid;
+}
