@@ -1,8 +1,0 @@
--- Creare utilizator
-CREATE USER 'myuser'@'localhost' IDENTIFIED BY 'mypassword';
-
--- Acordare drepturi depline
-GRANT ALL PRIVILEGES ON *.* TO 'myuser'@'localhost' WITH GRANT OPTION;
-
--- Salvează modificările
-FLUSH PRIVILEGES;
