@@ -1,1 +1,0 @@
-teme de la seminar
